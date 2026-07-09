@@ -1,0 +1,3 @@
+Como ciudadano, quiero consultar el estado de una causa para conocer el avance de su gestión.
+Como líder comunitario, quiero publicar noticias y avisos importantes para mantener informada a la comunidad.
+Como ciudadano, quiero adjuntar fotografías a un reporte para aportar evidencias del problema.

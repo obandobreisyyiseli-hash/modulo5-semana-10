@@ -1,0 +1,10 @@
+    Qué evento activa el flujo?
+Cuando un líder comunitario marca una causa como resuelta en la plataforma.
+
+
+    Qué mensaje se enviaría a Telegram?
+Actualización de una causa
+La causa "Reparación del parque principal" ha sido marcada como resuelta. Gracias por la participación de la comunidad.
+
+    Qué información no debería enviarse por seguridad?
+No deben enviarse datos personales de los usuarios, como nombres completos, números de identificación, direcciones, teléfonos, correos electrónicos, contraseñas o cualquier otra información confidencial que pueda afectar su privacidad.

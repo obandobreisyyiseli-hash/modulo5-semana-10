@@ -1,0 +1,17 @@
+¿Qué 2 tareas del backlog harías primero?
+Implementar el sistema de notificaciones para informar a los usuarios cuando una causa cambie de estado.
+Desarrollar el panel de estadísticas para mostrar las causas más apoyadas y las que ya fueron resueltas.
+
+Por qué son las más importantes?
+
+Porque las notificaciones mantienen informados a los ciudadanos sobre el progreso de las causas sin que tengan que ingresar constantemente a la plataforma. El panel de estadísticas ayuda a identificar las necesidades más importantes de la comunidad y mejora la transparencia del proceso.
+
+3. ¿Qué significa para ti que una tarea esté “terminada”?
+
+Una tarea está terminada cuando cumple su objetivo, funciona correctamente y está lista para ser utilizada por los usuarios.
+
+Definición de "Terminado" (Definition of Done)
+ Cumple con todos los requisitos solicitados.
+ Fue revisada y aprobada por el equipo.
+ La documentación quedó actualizada.
+ Se integró correctamente al proyecto y no genera errores.
